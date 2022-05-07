@@ -1,7 +1,6 @@
 # PROJECT NAME: CRUD OPERATIONS USING FIRESTORE
 
 <br>
-[Project Link](https://cb-sol.slack.com/files/U023KFQ3X0F/F03F2A2NR16/berry-react-javascript-v3.1.0-ukv1zg.zip)
 
 ## Available Scripts
 
